@@ -11,8 +11,8 @@ export default function Nav() {
       href: '#home',
     },
     {
-      name: 'Services',
-      href: '#services',
+      name: 'Artwork',
+      href: '#artwork',
     },
     {
       name: "FAQ's",
