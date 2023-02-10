@@ -1,8 +1,5 @@
-import { Inter } from '@next/font/google';
 import { HiMenuAlt1 } from 'react-icons/hi';
 import { BsInstagram } from 'react-icons/bs';
-
-const inter = Inter({ subsets: ['latin'] });
 
 export default function Nav() {
   const navItems = [
